@@ -1,0 +1,13 @@
+{
+  "appId": "com.dovellous.f7.react",
+  "appName": "F7 React",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

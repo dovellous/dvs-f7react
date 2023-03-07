@@ -1,0 +1,28 @@
+{
+  "cwd": "/Users/inboxdev/Documents/GitHub/dovelous/apps/dvs-f7react",
+  "type": [
+    "capacitor",
+    "web",
+    "pwa"
+  ],
+  "name": "F7 React",
+  "framework": "react",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#6000ff",
+    "darkTheme": true,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "pkg": "com.dovellous.f7.react",
+  "capacitor": {
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+}

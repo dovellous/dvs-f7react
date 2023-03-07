@@ -74,7 +74,7 @@ const MyApp = () => {
   });
 
   return (
-    <App { ...f7params } dark>
+    <App { ...f7params }>
 
         {/* Left panel with cover effect*/}
         <Panel left cover dark>
